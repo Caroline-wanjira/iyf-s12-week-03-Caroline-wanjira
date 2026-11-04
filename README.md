@@ -26,7 +26,7 @@ A multi page website project created as part of week 3 tasks, focusing on web de
 ## Project Structure
 
 \`\`\`
-iyf-s12-week-03-yourusername/
+iyf-s12-week-03-Caroline-wanjira
 ├── index.html
 ├── about.html
 ├── projects.html
@@ -48,7 +48,7 @@ During this week, I practiced structured terminal commands, managing Git reposit
 ## Contact
 
 - Email: cwanjira240@gmail.com
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- LinkedIn: [Caroline Wanjira](https://www.linkedin.com/in/caroline-wanjira-19a123285)
 - GitHub: [@Caroline-wanjira](https://github.com/Caroline-wanjira)
 
 ## Collaboration
