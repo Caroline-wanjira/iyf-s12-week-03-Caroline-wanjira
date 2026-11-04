@@ -27,3 +27,20 @@ Commands I ran in Git Bash, in order, and what each did.
 - `mkdir -p my-project/docs my-project/tests` - created docs and tests folders
 - `touch my-project/README.md` - created an empty README file
 - `ls -R my-project` - listed the whole structure to check it matched the task
+
+
+## Task 5.2: File Operations (practice in ~/terminal-practice/my-project)
+
+- `touch index.html` - created an empty file
+- `cat index.html` - printed nothing because the file is empty
+- `cp index.html backup.html` - copied the file
+- `mv backup.html docs/` - moved the copy into docs
+- `rm home.html` - failed ("cannot remove"), because I hadn't renamed index.html yet
+- `ls` - showed index.html, so the rename had not happened
+- `mv index.html home.html` - renamed the file
+- `rm home.html` - deleted the file
+- `cp -r src/ src-backup/` - copied the src directory
+- `mv src-backup/ archive/` - renamed the copy to archive
+- `rmdir archive/` - failed, because the directory was not empty
+- `rm -r archive/` - deleted the directory with its contents
+- `ls` - confirmed archive was gone
