@@ -44,3 +44,13 @@ Commands I ran in Git Bash, in order, and what each did.
 - `rmdir archive/` - failed, because the directory was not empty
 - `rm -r archive/` - deleted the directory with its contents
 - `ls` - confirmed archive was gone
+
+
+## Task 5.3: Useful Terminal Commands 
+
+- `find . -name "*.html" | wc -1` - typo (number 1 instead of letter l), gave "unknown option -- 1"
+- `find .-name "*.html" | wc -l` - typo (no space after the dot), gave "No such file or directory"
+- `find . -name "*.html" | wc -l` - printed 4, so there are 4 HTML files
+- `grep -rl "contact" --include="*.html" --include="*.css" .` - listed about.html, contact.html, index.html, projects.html and styles.css as containing "contact"
+- `wc -l styles.css` - printed 380, so the CSS file has 380 lines
+- `history | tail -10` - showed my last 10 commands (entries 5 to 14)
