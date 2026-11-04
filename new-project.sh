@@ -1,3 +1,5 @@
+#!/bin/bash
+# create a new project structure with stardard structure
 PROJECT_NAME=$1
 
 if [ -z "$PROJECT_NAME" ]; then
