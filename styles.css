@@ -331,6 +331,9 @@ footer p {
     --fs-h2: 2rem;
     --fs-h3: 1.5rem;
   }
+  .projects {
+    grid-template-columns: repeat(2, 1fr);
+  }
 
   main {
     padding: var(--space-lg) 1.5rem;
@@ -349,7 +352,7 @@ footer p {
     display: flex;
     flex-direction: row;
     gap: 1.5rem;
-    padding-top: 0;
+    padding-top: 0;ttg
   }
 
   .site-header nav a {
