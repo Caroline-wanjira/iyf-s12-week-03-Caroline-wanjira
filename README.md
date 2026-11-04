@@ -53,9 +53,9 @@ During this week, I practiced structured terminal commands, managing Git reposit
 
 ## Collaboration
 
-- **Partner:** [@partner](https://github.com/partner)
+- **Partner:** [@Wesala Crypto](https://github.com/Wesala-crypto)
 - **Pair repo:** https://github.com/...
-- **PR I opened:** https://github.com/.../pull/N
+- **PR I opened:** https://github.com/Wesala-crypto/iyf-s12-week-03-pair-Wesala-crypto/pull/3
 - **PR I reviewed:** https://github.com/.../pull/N
 - **Merge-conflict PR:** https://github.com/.../pull/N
 
