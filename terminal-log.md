@@ -63,3 +63,8 @@ Commands I ran in Git Bash, in order, and what each did.
 - `bash ~/Desktop/iyf-s12-week-03-Caroline-wanjira/new-project.sh sunrise-notes` - created the project structure
 - `ls -R sunrise-notes` - showed README.md, docs, tests and src (css, js, images, index.html)
 - `bash ~/Desktop/iyf-s12-week-03-Caroline-wanjira/new-project.sh` - no name given, printed the Usage message
+
+## Task 6.1
+- Verified Git configuration
+- Practised git init
+- Created three commits
