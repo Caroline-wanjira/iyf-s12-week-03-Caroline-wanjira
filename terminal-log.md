@@ -54,3 +54,12 @@ Commands I ran in Git Bash, in order, and what each did.
 - `grep -rl "contact" --include="*.html" --include="*.css" .` - listed about.html, contact.html, index.html, projects.html and styles.css as containing "contact"
 - `wc -l styles.css` - printed 380, so the CSS file has 380 lines
 - `history | tail -10` - showed my last 10 commands (entries 5 to 14)
+
+## Task 5.4: Shell Script Basics
+
+- Created `new-project.sh` in the week-03 repo with the project setup script
+- `chmod +x new-project.sh` - made the script executable
+- `cd ~/terminal-practice` - moved to the scratch folder, outside the repo
+- `bash ~/Desktop/iyf-s12-week-03-Caroline-wanjira/new-project.sh sunrise-notes` - created the project structure
+- `ls -R sunrise-notes` - showed README.md, docs, tests and src (css, js, images, index.html)
+- `bash ~/Desktop/iyf-s12-week-03-Caroline-wanjira/new-project.sh` - no name given, printed the Usage message
