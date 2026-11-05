@@ -75,3 +75,4 @@ Commands I ran in Git Bash, in order, and what each did.
 * Created two conflicting branches (`feature/header-one` and `feature/header-two`) to simulate a merge conflict
 * Resolved the merge conflict manually in `about.html` by editing conflict markers and committing the result
 
+## Stimulated collaborator update
