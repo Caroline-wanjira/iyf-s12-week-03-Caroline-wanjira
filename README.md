@@ -7,7 +7,6 @@ A multi page website project created as part of week 3 tasks, focusing on web de
 [View Live Site](https://Caroline-wanjira.github.io/iyf-s12-week-03-Caroline-wanjira)
 
 ## Screenshot
-
 ![Project Screenshot](./images/project.jpeg)
 
 ## Features
