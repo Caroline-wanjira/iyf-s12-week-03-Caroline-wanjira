@@ -57,7 +57,7 @@ During this week, I practiced structured terminal commands, managing Git reposit
 - **Pair repo:** https://github.com/Wesala-crypto/iyf-s12-week-03-pair-Wesala-crypto
 - **PR I opened:** https://github.com/Wesala-crypto/iyf-s12-week-03-pair-Wesala-crypto/pull/3
 - **PR I reviewed:** https://github.com/Wesala-crypto/iyf-s12-week-03-pair-Wesala-crypto/pull/1
-- **Merge-conflict PR:** https://github.com/Wesala-crypto/iyf-s12-week-03-pair-Wesala-crypto/pulls
+- **Merge-conflict PR:** https://github.com/Wesala-crypto/iyf-s12-week-03-pair-Wesala-crypto/pull/7
 
 ## License
 
