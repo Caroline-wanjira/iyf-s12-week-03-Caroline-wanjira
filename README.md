@@ -8,7 +8,7 @@ A multi page website project created as part of week 3 tasks, focusing on web de
 
 ## Screenshot
 
-![Project Screenshot](./images/screenshot.png)
+![Project Screenshot](./images/project.jpeg)
 
 ## Features
 
